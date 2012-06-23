@@ -1,0 +1,31 @@
+***crazymobils
+*** (C)opyleft 2012 by drake01
+*** drakeoone@gmail.com
+
+The codebase you are having this file in is a ncurses based game. Save your car
+from the crazy automobiles who don't care about yours.. Save uourself by moving left or
+right on the road.
+
+1. INSTALLING
+-------------
+Compile the codebase by standard method, ./configure , then make to build the
+game binary.
+Play the game by typing ./crazymobils or type sudo make install to install the
+game systemwide and run the game by simply typing crazymobils.
+
+2. REQUIREMENTS
+---------------
+crazymobils should be able to compile and run on linux and FreeBsd atleast.
+
+3. CONTROL KEYS
+---------------
+Controlling your car is really simple. Just press the cursor left/right keys 
+to move it left or right, and press space to increase the speed. The esc-key
+lets you quit the game.
+
+4. LICENSING
+------------
+The codebase is protected under the laws of the GPL. You should have received
+a copy of it with this package, if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
